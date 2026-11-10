@@ -78,12 +78,12 @@ Parallelized the A* search algorithm across multiple nodes with an MPI-based dis
 
 *Project described in my resume. Public source link to be added when available.*
 
-### 🔐 CovertSight — Image Steganography
+### 🔐 [CovertSight — Image Steganography](https://github.com/26-nitish/Covert-Site)
 **Rust · AES · Flask**
 
 Developed a Flask-based web application combining **AES encryption** and **least-significant-bit (LSB) steganography** to embed and extract hidden messages within images.
 
-*Project described in my resume. Repository naming and implementation should be checked before linking to [Covert-Site](https://github.com/26-nitish/Covert-Site).*
+[View source code](https://github.com/26-nitish/Covert-Site)
 
 ### 📚 [ResellIT — Student Book Resale Platform](https://github.com/26-nitish/ResellIT)
 **React · Redux Toolkit · Firebase · Tailwind CSS**
